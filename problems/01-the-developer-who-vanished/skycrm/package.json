@@ -1,0 +1,19 @@
+{
+  "name": "skycrm",
+  "version": "0.5.0",
+  "description": "crm for sky tours ehf",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no tests written yet. jón said he'd write them. jón is gone.\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "csv-parse": "^5.5.0",
+    "uuid": "^9.0.0"
+  },
+  "author": "jon@skytours.is",
+  "license": "ISC"
+}
