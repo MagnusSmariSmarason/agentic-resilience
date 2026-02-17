@@ -32,7 +32,7 @@ Problem 00 is the on-ramp. Problem 01 is the real thing.
 
 Both are available in **English** and **Icelandic**.
 
-> More problems are in development — covering research ethics, data science, event logistics, and AI governance.
+> **14 more problems are in development** — spanning healthcare, journalism, agriculture, education, elections, supply chains, architecture, art authentication, cultural heritage, and AI governance. See the [full roadmap](problems/README.md#roadmap).
 
 ---
 
